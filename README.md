@@ -17,6 +17,13 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+</br>
+<a href="https://github.com/id58365762/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=id58365762" />
+</a>
+<a href="https://github.com/id58365762/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=id58365762&layout=compact&langs_count=8&card_width=320" />
+</a>
 <!--
 **id58365762/id58365762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
