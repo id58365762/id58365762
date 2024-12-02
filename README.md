@@ -2,7 +2,7 @@
 
 ### About me
 - 🌱 I’m currently learning **___**
-- 📝 I regularly write articles on [Medium](medium-link)
+- 🎓 Bachelor of Science in Computer Science
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English B1
