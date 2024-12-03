@@ -3,8 +3,7 @@
 ### About me
 - 🌱 I’m currently learning **___**
 - 🎓 Bachelor of Science in Computer Science
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+ <!--- 📫 Reach me by [email](mailto:probank993@gmail.com)-->
 - 🌍 I speak English B1
 
 ---
