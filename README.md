@@ -3,9 +3,9 @@
 ### About me
 - 🌱 I’m currently learning **___**
 - 🎓 Bachelor of Science in Computer Science
- <!--- 📫 Reach me by [email](mailto:probank993@gmail.com)-->
 - 🌍 I speak English B1
-
+- 💻 I don't mind working remotely
+ <!--- 📫 Reach me by [email](mailto:probank993@gmail.com)-->
 ---
 
 ### Languages and tools
