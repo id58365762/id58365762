@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 ### About me
-- 🌱 I’m currently learning **___**
+
 - 🎓 Bachelor of Science in Computer Science
 - 🌍 I speak English B1
 - 💻 I don't mind working remotely
- <!--- 📫 Reach me by [email](mailto:probank993@gmail.com)-->
+ <!--- 📫 Reach me by [email](mailto:probank993@gmail.com)
+ - 🌱 I’m currently learning **___**-->
 ---
 
 ### Languages and tools
@@ -29,7 +30,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id58365762&theme=github_dark" alt=""/>
 </div>
-
+<!---
 The tools and technologies I use
 ___________________________________________________________________________________________________________________________________________
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
