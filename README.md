@@ -24,7 +24,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
--->
+
 ### My stat
 
 <div id="stat" align="center">
@@ -52,7 +52,7 @@ ________________________________________________________________________________
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
-
+-->
 
 <div align="center">
   <a  href="https://github.com/id58365762/convoychat">
