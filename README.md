@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
+
  <!--- 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
@@ -54,12 +55,8 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
 -->
 
-<div align="center">
-  <a  href="https://github.com/id58365762/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=id58365762&layout=compact&langs_count=8&card_width=320" />
-   
-  </a>
-</div>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
+
   <!--
 **id58365762/id58365762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
