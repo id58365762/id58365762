@@ -59,9 +59,11 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
 -->
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
+
 
   <!--
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
 **id58365762/id58365762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
