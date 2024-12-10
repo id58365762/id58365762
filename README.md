@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🎓 Master of Science in Computer Science
+- 🎓 Bachelor of Science in Computer Science
 - 🌍 I speak English B1
  - 💻 I don't mind working remotely
 <!--- 📫 Reach me by [email](mailto:)
