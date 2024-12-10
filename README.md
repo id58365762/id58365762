@@ -4,8 +4,8 @@
 
 - 🎓 Bachelor of Science in Computer Science
 - 🌍 I speak English B1
-<!--- - 💻 I don't mind working remotely
- 📫 Reach me by [email](mailto:probank993@gmail.com)
+ - 💻 I don't mind working remotely
+<!--- 📫 Reach me by [email](mailto:)
  - 🌱 I’m currently learning **___**-->
 ---
 
