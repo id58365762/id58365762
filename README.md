@@ -11,7 +11,7 @@
 
 ### Languages and tools
 
-   <img src="https://skillicons.dev/icons?i=js,html,css,less,scss,tailwind,typescript,react,bootstrap"  alt="Stack"/>
+   <img src="https://skillicons.dev/icons?i=js,html,css,less,scss,tailwind,typescript,react,bootstrap,jira,bash"  alt="Stack"/>
 <div id="stat" align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
