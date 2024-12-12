@@ -71,7 +71,7 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 </br></br>-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
 </br>
 ![](https://komarev.com/ghpvc/?username=id58365762&color=dc143c)
 
