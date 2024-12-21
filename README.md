@@ -21,13 +21,15 @@
 ![](https://img.shields.io/badge/word-%FFFFFFFF.svg?style=for-the-badge&logo=word&logoColor=white) 
 ![](https://img.shields.io/badge/powerpoint-%FFFFFFFF.svg?style=for-the-badge&logo=powerpoint&logoColor=white) 
 </div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id58365762&theme=github_dark" alt=""/>
 </div>
 
     
  <!--- 
+   
+ 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40"/>&nbsp;
