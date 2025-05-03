@@ -53,7 +53,7 @@
 <div id="stat" align="left">
   
 </div>
-
+-->
 The tools and technologies I use
 ___________________________________________________________________________________________________________________________________________
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-</br></br>-->
+</br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
 
 
