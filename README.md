@@ -73,7 +73,7 @@ ________________________________________________________________________________
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jupiter Notebook](https://img.shields.io/badge/jupiter-%23007ACC.svg?style=for-the-badge&logo=jupiter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupiter-%23007ACC.svg?style=for-the-badge&logo=jupiter&logoColor=white)
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
 
