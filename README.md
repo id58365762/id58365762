@@ -73,7 +73,7 @@ ________________________________________________________________________________
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br/>
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23007ACC.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter%20Notebook-%23007ACC.svg?style=for-the-badge&logo=jupyter%20notebook&logoColor=white)
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
 
