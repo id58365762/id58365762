@@ -58,10 +58,10 @@ ________________________________________________________________________________
 </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
 
-![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=white) 
-![](https://img.shields.io/badge/word-%FFFFFFFF.svg?style=for-the-badge&logo=word&logoColor=white) 
-![](https://img.shields.io/badge/powerpoint-%FFFFFFFF.svg?style=for-the-badge&logo=powerpoint&logoColor=white) 
-![](https://img.shields.io/badge/access-%FFFFFFFF.svg?style=for-the-badge&logo=access&logoColor=white) 
+![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=black) 
+![](https://img.shields.io/badge/word-%FFFFFFFF.svg?style=for-the-badge&logo=word&logoColor=black) 
+![](https://img.shields.io/badge/powerpoint-%FFFFFFFF.svg?style=for-the-badge&logo=powerpoint&logoColor=black) 
+![](https://img.shields.io/badge/access-%FFFFFFFF.svg?style=for-the-badge&logo=access&logoColor=black) 
 </div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
