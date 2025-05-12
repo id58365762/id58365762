@@ -47,6 +47,7 @@ ________________________________________________________________________________
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20Notebook-%FFFFFFFF.svg?style=for-the-badge&logo=jupyter%20notebook&logoColor=white)
 ![RStudio](https://img.shields.io/badge/R%20Strudio-%FFFFFFFF.svg?style=for-the-badge&logo=R%20Studio&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-%FFFFFFFF.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
 <br/>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
