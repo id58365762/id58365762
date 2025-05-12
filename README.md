@@ -45,6 +45,8 @@ ________________________________________________________________________________
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter%20Notebook-%FFFFFFFF.svg?style=for-the-badge&logo=jupyter%20notebook&logoColor=white)
+![RStudio](https://img.shields.io/badge/R%20Strudio-%FFFFFFFF.svg?style=for-the-badge&logo=R%20Studio&logoColor=white)
 <br/>
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +56,7 @@ ________________________________________________________________________________
 ![Python](https://img.shields.io/badge/python-%FFFFFFFF.svg?style=for-the-badge&logo=python&logoColor=%ADFF2F)
 ![R](https://img.shields.io/badge/R-%FFFFFFFF.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%FFFFFFFF.svg?style=for-the-badge&logo=sql&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter%20Notebook-%FFFFFFFF.svg?style=for-the-badge&logo=jupyter%20notebook&logoColor=white)
+
 
 
 ![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=black) 
