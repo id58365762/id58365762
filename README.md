@@ -65,6 +65,7 @@ ________________________________________________________________________________
 ![sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=#808000)
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?id58365762=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
 <!--
 ![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=black) 
