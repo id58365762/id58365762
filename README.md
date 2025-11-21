@@ -65,8 +65,8 @@ ________________________________________________________________________________
 ![sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=#808000)
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
 
-
-
+![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
+<!--
 ![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=black) 
 ![](https://img.shields.io/badge/word-%FFFFFFFF.svg?style=for-the-badge&logo=word&logoColor=black) 
 ![](https://img.shields.io/badge/powerpoint-%FFFFFFFF.svg?style=for-the-badge&logo=powerpoint&logoColor=black) 
@@ -74,8 +74,8 @@ ________________________________________________________________________________
 </br>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
-<!--<div>
+
+<div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id58365762&theme=github_dark" alt=""/>
