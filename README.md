@@ -68,7 +68,7 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/id58365762/github-readme-stats)
 
  </br>
-![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
+
 <!--
 ![](https://img.shields.io/badge/excel-%FFFFFFFF.svg?style=for-the-badge&logo=excel&logoColor=black) 
 ![](https://img.shields.io/badge/word-%FFFFFFFF.svg?style=for-the-badge&logo=word&logoColor=black) 
