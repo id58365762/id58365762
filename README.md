@@ -73,7 +73,7 @@ ________________________________________________________________________________
 ![](https://img.shields.io/badge/access-%FFFFFFFF.svg?style=for-the-badge&logo=access&logoColor=black) 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
 <!--<div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
@@ -85,7 +85,7 @@ ________________________________________________________________________________
 
  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
  </br>![](https://komarev.com/ghpvc/?username=id58365762&color=dc143c)
  --!>
 **id58365762/id58365762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
