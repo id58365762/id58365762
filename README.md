@@ -74,6 +74,7 @@ ________________________________________________________________________________
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact&theme=github_dark)](https://github.com/id58365762/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=your-github-id58365762&style=flat-square)
 <!--<div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=id58365762&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=id58365762&theme=github_dark" alt=""/>
