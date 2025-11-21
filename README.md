@@ -59,7 +59,7 @@ ________________________________________________________________________________
 </br>
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=white)
 <br/>
-![tensorflow](https://img.shields.io/badge/tensorflow-%23F05033.svg?style=for-the-badge&logo=tensorflow&logoColor=#FF8C00)
+![tensorflow](https://img.shields.io/badge/tensorflow-%23F05033.svg?style=for-the-badge&logo=tensorflow&logoColor=#ADFF2F)
 ![numpy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=%ADFF2F)
 ![matplotlib](https://img.shields.io/badge/matplotlib-%FFFFFFFF.svg?style=for-the-badge&logo=matplotlib&logoColor=#006400)
 ![sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=#808000)
