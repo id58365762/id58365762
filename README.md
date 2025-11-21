@@ -58,6 +58,12 @@ ________________________________________________________________________________
 ![SQL](https://img.shields.io/badge/sql-%FFFFFFFF.svg?style=for-the-badge&logo=sql&logoColor=white)
 </br>
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=white)
+<br/>
+![tensorflow](https://img.shields.io/badge/tensorflow-%FFFFFFFF.svg?style=for-the-badge&logo=tensorflow&logoColor=%ADFF2F)
+![numpy](https://img.shields.io/badge/numpy-%FFFFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=%ADFF2F)
+![matplotlib](https://img.shields.io/badge/matplotlib-%FFFFFFFF.svg?style=for-the-badge&logo=matplotlib&logoColor=%ADFF2F)
+![sklearn](https://img.shields.io/badge/sklearn-%FFFFFFFF.svg?style=for-the-badge&logo=sklearn&logoColor=%ADFF2F)
+![seaborn](https://img.shields.io/badge/seaborn-%FFFFFFFF.svg?style=for-the-badge&logo=seaborn&logoColor=%ADFF2F)
 
 
 
