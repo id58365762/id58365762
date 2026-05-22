@@ -66,6 +66,7 @@ ________________________________________________________________________________
 ![matplotlib](https://img.shields.io/badge/matplotlib-%FFFFFFFF.svg?style=for-the-badge&logo=matplotlib&logoColor=#006400)
 ![sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=#808000)
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
+![nodejs](https://img.shields.io/badge/nodejs-%23F05033.svg?style=for-the-badge&logo=nodejs&logoColor=#B22222)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id58365762&theme=solarized_dark)
