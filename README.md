@@ -39,6 +39,7 @@
   
 </div>
 -->
+
 The tools and technologies I use
 ___________________________________________________________________________________________________________________________________________
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -67,7 +68,8 @@ ________________________________________________________________________________
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=id58365762&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id58365762&theme=solarized_dark)****
+
  </br>![](https://komarev.com/ghpvc/?username=id58365762&color=dc143c)
 
 <!--
