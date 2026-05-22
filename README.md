@@ -68,8 +68,7 @@ ________________________________________________________________________________
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id58365762&theme=solarized_dark)****
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id58365762&theme=solarized_dark)
  </br>![](https://komarev.com/ghpvc/?username=id58365762&color=dc143c)
 
 <!--
