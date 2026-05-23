@@ -70,6 +70,7 @@ ________________________________________________________________________________
 ![seaborn](https://img.shields.io/badge/seaborn-%23F05033.svg?style=for-the-badge&logo=seaborn&logoColor=#B22222)
 ![nodejs](https://img.shields.io/badge/nodejs-%23F05033.svg?style=for-the-badge&logo=nodejs&logoColor=#B22222)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23F05033.svg?style=for-the-badge&logo=Tkinters&logoColor=#B22222)
+![biopython](https://img.shields.io/badge/biopython-%23F05033.svg?style=for-the-badge&logo=biopython&logoColor=#ADFF2F)
  </br>![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=Linux&logoColor=%ADFF2F)
 
 
