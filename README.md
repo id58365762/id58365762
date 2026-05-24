@@ -63,6 +63,7 @@ ________________________________________________________________________________
 ![CRUD](https://img.shields.io/badge/CRUD-%23E34F26.svg?style=for-the-badge&logo=CRUD&logoColor=white)
 </br>
 ![VBA](https://img.shields.io/badge/VBA-%23323330.svg?style=for-the-badge&logo=VBA&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23323330.svg?style=for-the-badge&logo=MATLAB&logoColor=white)
 <br/>
 ![tensorflow](https://img.shields.io/badge/tensorflow-%23F05033.svg?style=for-the-badge&logo=tensorflow&logoColor=#ADFF2F)
 ![numpy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=%ADFF2F)
