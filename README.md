@@ -55,6 +55,7 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br/>
+![JAVA](https://img.shields.io/badge/JAVA-%23323330.svg?style=for-the-badge&logo=JAVA&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%FFFFFFFF.svg?style=for-the-badge&logo=python&logoColor=%ADFF2F)
 ![R](https://img.shields.io/badge/R-%FFFFFFFF.svg?style=for-the-badge&logo=r&logoColor=white)
 </br>![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
