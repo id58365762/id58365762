@@ -62,7 +62,7 @@ ________________________________________________________________________________
 ![SQLite](https://img.shields.io/badge/SQLite-%23E34F26.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![CRUD](https://img.shields.io/badge/CRUD-%23E34F26.svg?style=for-the-badge&logo=CRUD&logoColor=white)
 </br>
-![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-%23323330.svg?style=for-the-badge&logo=VBA&logoColor=white)
 <br/>
 ![tensorflow](https://img.shields.io/badge/tensorflow-%23F05033.svg?style=for-the-badge&logo=tensorflow&logoColor=#ADFF2F)
 ![numpy](https://img.shields.io/badge/numpy-%23323330.svg?style=for-the-badge&logo=numpy&logoColor=%ADFF2F)
