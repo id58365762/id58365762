@@ -60,6 +60,7 @@ ________________________________________________________________________________
 </br>![SQL](https://img.shields.io/badge/sql-%23E34F26.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23E34F26.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23E34F26.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-%23E34F26.svg?style=for-the-badge&logo=CRUD&logoColor=white)
 </br>
 ![Go](https://img.shields.io/badge/go-%23323330.svg?style=for-the-badge&logo=go&logoColor=white)
 <br/>
