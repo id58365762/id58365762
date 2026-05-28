@@ -75,7 +75,7 @@ ________________________________________________________________________________
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23F05033.svg?style=for-the-badge&logo=Tkinters&logoColor=#B22222)
 ![biopython](https://img.shields.io/badge/biopython-%23F05033.svg?style=for-the-badge&logo=biopython&logoColor=#ADFF2F)
  </br>![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=Linux&logoColor=%ADFF2F)
-
+![bash](https://img.shields.io/badge/bash-%23323330.svg?style=for-the-badge&logo=bash&logoColor=%ADFF2F)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id58365762&theme=solarized_dark)
  </br>![](https://komarev.com/ghpvc/?username=id58365762&color=dc143c)
